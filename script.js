@@ -4,7 +4,7 @@ function mostrarNome(){
 
     const nome = inNome.value;
 
-    outMostrar.textContent = "Olá " + nome;
+    outMostrar.textContent = "Olá " + nome + " bons estudos em JavaScript";
 
 
 }
